@@ -10,3 +10,5 @@ This script allows you to send an email, namely each operator has set up a key t
 I will couple this script to the coinmarketcap api and integrate it in my PTS project: Whales Watching on Ethereum Blockchain.
 
 This is the process to get your sign in with App Passwords https://support.google.com/accounts/answer/185833?hl=en.
+
+Update : Finally my phone number have an api to receive a message from an IDE. I will use this script to automate emailing.
